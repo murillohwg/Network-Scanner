@@ -26,7 +26,7 @@ Linux: sudo apt install nmap
 
 Instalação
 
-git clone [https://github.com/SEU-USUARIO/Network-Scanner-Pro.git](https://github.com/SEU-USUARIO/Network-Scanner-Pro.git)
+git clone [https://github.com/murillohwg/Network-Scanner-Pro.git](https://github.com/SEU-USUARIO/Network-Scanner-Pro.git)
 cd Network-Scanner-Pro
 
 
